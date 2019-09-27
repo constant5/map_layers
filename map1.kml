@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ServiceExceptionReport SYSTEM "http://10.125.237.26/geoserver/schemas/wms/1.1.1/WMS_exception_1_1_1.dtd"> <ServiceExceptionReport version="1.1.1" >   <ServiceException code="InvalidSRS">
+      Error occurred decoding the espg code EPSG:4326/kml?layers=radiomap:map
+No code &quot;EPSG:4326/KML?LAYERS=RADIOMAP:MAP&quot; from authority &quot;European Petroleum Survey Group&quot; found for object of type &quot;IdentifiedObject&quot;.
+</ServiceException></ServiceExceptionReport>
